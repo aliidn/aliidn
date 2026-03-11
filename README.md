@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20Everyone!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FFD700,FF8C00,2C2C2C&height=180&section=header&text=Hello%20Everyone!%20👋&fontSize=50&animation=typing&fontAlignY=35"/>
   
   <br>
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1MDNya2h5MXM5N3M4azI2dTF4cDJtN2VjaHh1NzVxM3k1emQ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smW5FBep69d3q/giphy.gif" width="600" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,FFD700,FF8C00&height=40&section=footer" />
+</p>
 
 <h3 align="center">⚔️ The Armory (Tech Stack)</h3>
 
@@ -15,7 +17,9 @@
   <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,FFD700,FF8C00&height=40&section=header" />
+</p>
 
 ### 📜 The Scrolls of Wisdom
 
@@ -26,18 +30,17 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight" alt="aliidn GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight&border_color=FFD700" alt="aliidn GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight" alt="aliidn Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700" alt="aliidn Top Languages" />
 </p>
 
----
+<br>
 
 <p align="center">
-📍 Find me at <b>The Prancing Pony</b>
-</p>
+  <img src="
 
 <!--
 
