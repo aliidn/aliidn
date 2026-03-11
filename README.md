@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=35&section=header&text=%20&fontSize=1&url=https://upload.wikimedia.org/wikipedia/commons/2/23/One_Ring_inscription.svg" width="500" alt="One Ring Inscription" />
+  <img src="https://readme-typing-svg.demolab.com?font=Aniron&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Ash+nazg+durbatulûk%2C+ash+nazg+gimbatul" alt="Gold Ring Inscription" />
 </p>
 
 ---
