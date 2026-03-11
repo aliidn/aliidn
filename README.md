@@ -1,15 +1,9 @@
-## Hi there 👋
-
-![Banner](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
-
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20Middle%20Earth%20aliidn%20🕹️&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
   
   <br>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4Z3Rtc2Z6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/os5UzLghfAUEE/giphy.gif" width="600" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1MDNya2h5MXM5N3M4azI2dTF4cDJtN2VjaHh1NzVxM3k1emQ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smW5FBep69d3q/giphy.gif" width="600" />
 </p>
 
 ---
@@ -42,7 +36,7 @@
 ---
 
 <p align="center">
-📍 Find me at <b>The Prancing Pony</b> (or just on GitHub)
+📍 Find me at <b>The Prancing Pony</b>
 </p>
 
 <!--
