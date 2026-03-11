@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Aniron&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Ash+nazg+durbatulûk%2C+ash+nazg+gimbatul" alt="Gold Ring Inscription" />
+  <img src="https://img.shields.io/badge/💍-Ash%20nazg%20durbatulûk%20ash%20nazg%20gimbatul-FFD700?style=for-the-badge&labelColor=2C2C2C&color=FFD700" alt="Gold Ring Inscription" />
 </p>
 
 ---
@@ -40,7 +40,6 @@
 <p align="center">
   📍 <b>Find me at The Prancing Pony</b>
 </p>
-
 
 <!--
 
