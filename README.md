@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💍-Ash%20nazg%20durbatulûk%20ash%20nazg%20gimbatul-FFD700?style=for-the-badge&labelColor=2C2C2C&color=FFD700" alt="Gold Ring Inscription" />
-</p>
 
 ---
 
