@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
 </p>
 
