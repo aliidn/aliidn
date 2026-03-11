@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💍-Ash%20nazg%20durbatulûk%20ash%20nazg%20gimbatul-FFD700?style=for-the-badge&labelColor=2C2C2C&color=FFD700" alt="Gold Ring Inscription" />
+  <img src="https://raw.githubusercontent.com/fabiomarcal/LotR_Icons_Pack/main/Other/onering/One_Ring_inscription.svg" width="500" style="filter: brightness(0) saturate(100%) invert(84%) sepia(58%) throw(15%) saturate(1324%) hue-rotate(357deg) brightness(105%) contrast(105%);" />
 </p>
 
 ---
