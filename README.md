@@ -6,9 +6,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1MDNya2h5MXM5N3M4azI2dTF4cDJtN2VjaHh1NzVxM3k1emQ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smW5FBep69d3q/giphy.gif" width="600" />
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/One_Ring_inscription.svg" width="400" />
-</p>
+---
 
 <h3 align="center">⚔️ The Armory (Tech Stack)</h3>
 
@@ -18,8 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/One_Ring_inscription.svg" width="400" style="transform: rotate(180deg);" />
+  <img src="https://raw.githubusercontent.com/fabiomarcal/LotR_Icons_Pack/main/Other/onering/One_Ring_inscription.svg" width="450" alt="One Ring Inscription on Gold" />
 </p>
+
+---
 
 ### 📜 The Scrolls of Wisdom
 
