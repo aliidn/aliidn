@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FFD700,FF8C00,2C2C2C&height=150&section=header&text=Hey%20Everyone!🕹️&fontSize=50&animation=fadeIn&fontAlignY=35"/>
   
@@ -15,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/8M6P/eyJyIjoiZnNoIiwiaCI6NjUsInciOjEwMDAsImZzIjo2NSwiZmdjIjoiI0ZGRDcwMCIsImJnYyI6IiMyQzJDMkMiLCJ0IjoxfQ/QXNoIG5hemcgZHVyYmF0dWzDuGssIGFzaCBuYXpnIGdpbWJhdHVsLA/aniron.png" alt="One Ring Inscription Gold" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=35&section=header&text=%20&fontSize=1&url=https://upload.wikimedia.org/wikipedia/commons/2/23/One_Ring_inscription.svg" width="500" alt="One Ring Inscription" />
 </p>
 
 ---
@@ -41,6 +40,7 @@
 <p align="center">
   📍 <b>Find me at The Prancing Pony</b>
 </p>
+
 
 <!--
 
