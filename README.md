@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FFD700,FF8C00,2C2C2C&height=150&section=header&text=Hey%20Everyone!🕹️&fontSize=50&animation=fadeIn&fontAlignY=35"/>
   
@@ -32,7 +33,15 @@
 </p>
 
 <p align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700" alt="aliidn Top Languages" />
+</p>
+
+<br>
+
+<p align="center">
+  📍 <b>Find me at The Prancing Pony</b>
+</p>
+
 <!--
 
 **aliidn/aliidn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
