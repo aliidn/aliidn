@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FFD700,FF8C00,2C2C2C&height=180&section=header&text=Hello%20Everyone!%20👋&fontSize=50&animation=typing&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FFD700,FF8C00,2C2C2C&height=150&section=header&text=Hey%20Everyone!🕹️&fontSize=50&animation=fadeIn&fontAlignY=35"/>
   
   <br>
 
@@ -40,7 +40,8 @@
 <br>
 
 <p align="center">
-  <img src="
+  📍 <b>Find me at The Prancing Pony</b>
+</p>
 
 <!--
 
