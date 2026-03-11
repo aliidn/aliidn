@@ -4,8 +4,18 @@
 
 
 
+<h3 align="center">⚔️ The Armory (Tech Stack)</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=One%20Dev%20to%20Rule%20Them%20All&fontSize=50&animation=fadeIn&fontAlignY=40&url=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4Z3Rtc2Z6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/os5UzLghfAUEE/giphy.gif&mask=000000&opacity=0.4"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RISC--V-FF6600?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V Assembly" />
+</p>
+
+---
+
+### 📜 My Journey through Middle-earth (GitHub Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <!--
