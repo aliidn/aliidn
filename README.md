@@ -13,6 +13,12 @@
     <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
   </a>
 </p>
+
+---
+<p align="center">
+<i>"The wealth of Moria was not in gold or jewels, but in RISC-V Assembly."</i>
+</p>
+
 <!--
 
 **aliidn/aliidn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
