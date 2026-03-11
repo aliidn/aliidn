@@ -4,20 +4,15 @@
 
 
 
-<h3 align="center">⚔️ The Armory (Tech Stack)</h3>
-
+<h3 align="center">⚔️ The Armory</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/RISC--V-FF6600?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V Assembly" />
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://riscv.org/">
+    <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 📜 My Journey through Middle-earth (GitHub Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
 <!--
 
 **aliidn/aliidn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
