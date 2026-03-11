@@ -6,13 +6,15 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1MDNya2h5MXM5N3M4azI2dTF4cDJtN2VjaHh1NzVxM3k1emQ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smW5FBep69d3q/giphy.gif" width="600" />
 </p>
 
----
-
 <h3 align="center">⚔️ The Armory (Tech Stack)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💍-Ash%20nazg%20durbatulûk%20ash%20nazg%20gimbatul-FFD700?style=for-the-badge&labelColor=2C2C2C&color=FFD700" alt="Gold Ring Inscription" />
 </p>
 
 ---
@@ -30,7 +32,14 @@
 </p>
 
 <p align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700" alt="aliidn Top Languages" />
+</p>
+
+<br>
+
+<p align="center">
+  📍 <b>Find me at The Prancing Pony</b>
+</p>
 
 <!--
 
