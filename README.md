@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,FFD700,FF8C00&height=40&section=footer" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/One_Ring_inscription.svg" width="400" />
 </p>
 
 <h3 align="center">⚔️ The Armory (Tech Stack)</h3>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,FFD700,FF8C00&height=40&section=header" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/One_Ring_inscription.svg" width="400" style="transform: rotate(180deg);" />
 </p>
 
 ### 📜 The Scrolls of Wisdom
