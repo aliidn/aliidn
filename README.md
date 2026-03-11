@@ -1,6 +1,5 @@
-# Hello Everyone! 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20Everyone!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35"/>
   
   <br>
 
