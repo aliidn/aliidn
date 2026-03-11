@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 ![Banner](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=One%20Repo%20to%20Rule%20Them%20All&fontSize=40&animation=fadeIn&fontAlignY=70&method=impl&url=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4Z3Rtc2Z6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/os5UzLghfAUEE/giphy.gif"/>
+</p>
+
 <!--
+
 **aliidn/aliidn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
