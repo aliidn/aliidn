@@ -6,15 +6,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1MDNya2h5MXM5N3M4azI2dTF4cDJtN2VjaHh1NzVxM3k1emQ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smW5FBep69d3q/giphy.gif" width="600" />
 </p>
 
+---
+
 <h3 align="center">⚔️ The Armory (Tech Stack)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fabiomarcal/LotR_Icons_Pack/main/Other/onering/One_Ring_inscription.svg" width="500" style="filter: brightness(0) saturate(100%) invert(84%) sepia(58%) throw(15%) saturate(1324%) hue-rotate(357deg) brightness(105%) contrast(105%);" />
 </p>
 
 ---
@@ -32,14 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700" alt="aliidn Top Languages" />
-</p>
-
-<br>
-
-<p align="center">
-  📍 <b>Find me at The Prancing Pony</b>
-</p>
+  <img src="
 
 <!--
 
