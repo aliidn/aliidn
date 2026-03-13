@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/RISC--V%20Assembly-FF6600?style=for-the-badge&logo=riscv&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-2C2C2C?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 
