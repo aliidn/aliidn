@@ -36,6 +36,16 @@
 
 <br>
 
+---
+
+### 🗺️ The Current Quest: Mastering the Machine
+I am currently traversing the lands of **Machine Learning** to combine my Engineering foundation with data-driven solutions.
+* 🤖 **Deep Diving:** Neural Networks & Supervised Learning.
+* 📈 **Tools:** Exploring Scikit-Learn, NumPy, and Pandas for data analysis.
+* ⚡ **Goal:** Applying ML models to optimize hardware and computer architecture.
+
+---
+
 <p align="center">
   📍 <b>Find me at The Prancing Pony</b>
 </p>
