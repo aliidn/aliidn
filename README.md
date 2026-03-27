@@ -28,13 +28,11 @@
 ---
 
 <p align="center">
-  <img src="[https://github-readme-stats-aliidns-projects.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight&border_color=FFD700&cache_buster=march2026" alt="aliidn GitHub Stats](https://github-readme-stats-aliidns-projects.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight&border_color=FFD700
-
-2. The Top Languages Card)" />
+  <img src="https://github-readme-stats-aliidns-projects.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight&border_color=FFD700&cache_buster=success_fix" alt="aliidn GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-aliidns-projects.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700&cache_buster=march2026" alt="aliidn Top Languages" />
+  <img src="https://github-readme-stats-aliidns-projects.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700&cache_buster=success_fix" alt="aliidn Top Languages" />
 </p>
 
 <br>
