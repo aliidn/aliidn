@@ -28,11 +28,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-aliidns-projects.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight&border_color=FFD700" alt="aliidn GitHub Stats" />
+  <img src="https://github-readme-stats-aliidns-projects.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight&border_color=FFD700&v=1" alt="aliidn GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-aliidns-projects.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700" alt="aliidn Top Languages" />
+  <img src="https://github-readme-stats-aliidns-projects.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700&v=1" alt="aliidn Top Languages" />
 </p>
 
 <br>
