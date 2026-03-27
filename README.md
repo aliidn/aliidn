@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-aliidns-projects.vercel.app/api?username=aliidn&show_icons=true&theme=tokyonight&border_color=FFD700" alt="aliidn GitHub Stats" />
-</p>1
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-aliidns-projects.vercel.app/api/top-langs/?username=aliidn&layout=compact&theme=tokyonight&border_color=FFD700" alt="aliidn Top Languages" />
